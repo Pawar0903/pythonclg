@@ -1,0 +1,2 @@
+s="Virat"
+print(s)
